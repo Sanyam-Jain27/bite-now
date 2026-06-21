@@ -31,7 +31,7 @@ const Navbar = () => {
 
         <ul className="flex items-center gap-10 text-lg font-medium text-gray-800">
           <li className="hover:text-orange-500 transition">
-            <Link href="/">Home</Link>
+            <Link href="/">home</Link>
           </li>
 
           {details?.name ? (
