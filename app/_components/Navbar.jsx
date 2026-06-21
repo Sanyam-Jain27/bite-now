@@ -37,7 +37,7 @@ const Navbar = () => {
           {details?.name ? (
             <>
               <li className="hover:text-orange-500 transition">
-                <Link href="/profile">Profile</Link>
+                <Link href="/profile">About</Link>
               </li>
               <li>
                 <button
